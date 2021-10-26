@@ -1,5 +1,5 @@
 # >_Agenda de contatos
-### CRUD desenvolvido em php atrelado ao bootstrap e Mysql
+### CRUD desenvolvido em Php atrelado ao Bootstrap e Mysql
 ##
 ### Conhecimentos necessário para a execução do projeto
 
